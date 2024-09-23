@@ -1,16 +1,19 @@
 body {
-    background-color: blue;
+    background-color: aquamarine;
     text-align: center; 
-    color: white;
+    color: purple;
 }
 
 
 ul {
-    color: black;
+    color: green;
     text-align: left;
     font-weight: bold;
 }
 
-.girl {
-    background-color: blueviolet;
+
+
+.home {
+    width: 250px;
+    border: 1px solid black;
 }
