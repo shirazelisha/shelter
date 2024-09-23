@@ -1,13 +1,14 @@
 body {
-    background-color: red;
+    background-color: blue;
     text-align: center; 
-    color: aqua;
+    color: white;
 }
 
 
-.boy {
-    background-color: white;
-
+ul {
+    color: black;
+    text-align: left;
+    font-weight: bold;
 }
 
 .girl {
